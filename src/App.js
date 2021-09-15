@@ -60,7 +60,7 @@ class App extends React.Component {
       <div className="App">
         <div>
           <p>
-            <h1>年轻人的第一个JSON Formatter</h1>
+            <h1>年轻人的第一个JSON Previewer</h1>
           </p>
         </div>
         <Grid container className={classes.root} direction="row" spacing={3}>
